@@ -1,0 +1,18 @@
+componentes:
+
+1) home con buscador
+
+***En server.js conecto con las rutas, creo una app express, creo bodyparser, conecto las rutas con app.use, y levanto un server con app.listen.
+
+***En index.js todavia no hago nada, pero eventualmente va a ser el nucleo de la app de react.
+
+***index.html sera el archivo que lea el navegador, con el componente id='app'
+
+***routes: por ahora es el unico q esta renderizando algo. Lo exporto y lo levanto en server.js
+
+
+NOTA: si abro manualmente el index.html, se abre la pagina pero (todavia) no renderiza nada de react.
+
+
+
+TENGO Q CORRER DOBLE SERVIDOR???
